@@ -29,7 +29,7 @@ Sou formado em **Ciência da Computação** e estou expandindo meu portfólio co
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedor Júnior**, com foco em automação, backend e criação de ferramentas eficientes.
+Atuar como **Desenvolvedor Júnior**, com foco em backend e criação de ferramentas eficientes.
 
 ---
 
