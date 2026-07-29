@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o **Alexsander Lucio Barboza**
+# **Alexsander Lucio Barboza**
 
 Desenvolvedor focado em **Python**, automação e criação de aplicações práticas. Tenho experiência com scripts, interfaces gráficas, manipulação de dados e construção de sistemas que resolvem problemas reais.
 
